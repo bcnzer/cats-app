@@ -1,0 +1,27 @@
+frontend tech test
+
+run `npm i` to install the node modules
+run `npm run start` to see the app
+
+
+instructions:
+
+The app we're building lets users create themselves a profile for their favourite cat.
+There are 3 cats to choose from and the user can build a list of foods their cat likes.
+
+
+There are some tests that are failing currently because the functionality hasn't been built.
+
+Add the necessary functionality to pass the tests.
+- When the user selects their favourite cat it should display the corresponding image for the cat.
+- Make it so you can enter a type of food your cat likes and have a list of foods rendered below.
+- No cat image should be displayed when no cat has been selected.
+- Make it so the CatProfile component can be passed a default selected cat
+
+Additionally, style the form so it is centered horizontally on the page.
+Make any other style adjustments you'd like to improve the look of the form.
+
+
+can you prevent adding an empty food item?
+
+can you prevent numbers being added?
